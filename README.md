@@ -1,2 +1,2 @@
 # wasp33b_2017
-Contain the script used for Nugroho et al. 2017
+Python 2.7 scripts used in Nugroho et al. 2017
