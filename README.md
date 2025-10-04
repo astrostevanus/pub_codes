@@ -1,2 +1,3 @@
-# wasp33b_2017
-Python 2.7 scripts used in Nugroho et al. 2017
+# Pub_code
+Scripts used in the publications
+1. w33b_2017 -> Nugroho et al. 2017
